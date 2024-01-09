@@ -10,6 +10,7 @@
 - 📫 How to reach me **hunterprogaming590@gmail.com**
 
 - ⚡ Fun fact **I am currently in 8th standard.**
+![gif](hacker.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
