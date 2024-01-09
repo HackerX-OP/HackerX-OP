@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/cyber_thakur790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyber_thakur790" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@cyber_clausess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cyber_clausess" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/udit singh dhakrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="udit singh dhakrey" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@cyberclauses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cyber_clausess" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hunterprogaming1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="udit singh dhakrey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
