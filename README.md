@@ -10,7 +10,7 @@
 - 📫 How to reach me **hunterprogaming590@gmail.com**
 
 - ⚡ Fun fact **I am currently in 8th standard.**
-![gif](hacker.gif)
+<img src="https://github.com/HackerX-OP/HackerX-OP/blob/main/hacker.gif" align="right" height="200"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackerx-op&show_icons=true&locale=en&layout=compact" alt="hackerx-op" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackerx-op&show_icons=true&locale=en" alt="hackerx-op" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackerx-op&" alt="hackerx-op" /></p>
+<img src="https://github.com/HackerX-OP/HackerX-OP/blob/main/coding-freak.gif" align="left" height="200"/>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hackerx-op&" alt="hackerx-op" /></p>
